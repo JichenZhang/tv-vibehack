@@ -1,0 +1,17 @@
+tools/venv/
+tools/adbkey/
+tools/__pycache__/
+launcher/.gradle/
+launcher/build/
+launcher/app/build/
+launcher/local.properties
+*.zip
+*.mp4
+*.mkv
+*.avi
+*.apk
+test_*.png
+thumb_part1.jpg
+backup/
+personal_tv_setup/
+.DS_Store
